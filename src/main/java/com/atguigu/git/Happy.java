@@ -1,5 +1,5 @@
 package com.atguigu.git;
 
-public class Happy {
-
+final class Happy {
+	
 }
